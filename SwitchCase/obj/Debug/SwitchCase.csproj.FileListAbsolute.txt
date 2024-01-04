@@ -1,0 +1,7 @@
+C:\Users\Owen\source\repos\SwitchCase\obj\Debug\SwitchCase.csproj.AssemblyReference.cache
+C:\Users\Owen\source\repos\SwitchCase\obj\Debug\SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\Owen\source\repos\SwitchCase\bin\Debug\SwitchCase.exe.config
+C:\Users\Owen\source\repos\SwitchCase\bin\Debug\SwitchCase.exe
+C:\Users\Owen\source\repos\SwitchCase\bin\Debug\SwitchCase.pdb
+C:\Users\Owen\source\repos\SwitchCase\obj\Debug\SwitchCase.exe
+C:\Users\Owen\source\repos\SwitchCase\obj\Debug\SwitchCase.pdb
