@@ -1,0 +1,15 @@
+C:\Users\Owen\source\repos\RandomNumberGame\obj\Debug\net7.0\RandomNumberGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owen\source\repos\RandomNumberGame\obj\Debug\net7.0\RandomNumberGame.AssemblyInfoInputs.cache
+C:\Users\Owen\source\repos\RandomNumberGame\obj\Debug\net7.0\RandomNumberGame.AssemblyInfo.cs
+C:\Users\Owen\source\repos\RandomNumberGame\obj\Debug\net7.0\RandomNumberGame.csproj.CoreCompileInputs.cache
+C:\Users\Owen\source\repos\RandomNumberGame\obj\Debug\net7.0\RandomNumberGame.sourcelink.json
+C:\Users\Owen\source\repos\RandomNumberGame\bin\Debug\net7.0\RandomNumberGame.exe
+C:\Users\Owen\source\repos\RandomNumberGame\bin\Debug\net7.0\RandomNumberGame.deps.json
+C:\Users\Owen\source\repos\RandomNumberGame\bin\Debug\net7.0\RandomNumberGame.runtimeconfig.json
+C:\Users\Owen\source\repos\RandomNumberGame\bin\Debug\net7.0\RandomNumberGame.dll
+C:\Users\Owen\source\repos\RandomNumberGame\bin\Debug\net7.0\RandomNumberGame.pdb
+C:\Users\Owen\source\repos\RandomNumberGame\obj\Debug\net7.0\RandomNumberGame.dll
+C:\Users\Owen\source\repos\RandomNumberGame\obj\Debug\net7.0\refint\RandomNumberGame.dll
+C:\Users\Owen\source\repos\RandomNumberGame\obj\Debug\net7.0\RandomNumberGame.pdb
+C:\Users\Owen\source\repos\RandomNumberGame\obj\Debug\net7.0\RandomNumberGame.genruntimeconfig.cache
+C:\Users\Owen\source\repos\RandomNumberGame\obj\Debug\net7.0\ref\RandomNumberGame.dll
