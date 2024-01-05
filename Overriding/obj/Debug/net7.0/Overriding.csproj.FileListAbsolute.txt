@@ -1,0 +1,14 @@
+C:\Users\Owen\source\repos\Overriding\bin\Debug\net7.0\Overriding.exe
+C:\Users\Owen\source\repos\Overriding\bin\Debug\net7.0\Overriding.deps.json
+C:\Users\Owen\source\repos\Overriding\bin\Debug\net7.0\Overriding.runtimeconfig.json
+C:\Users\Owen\source\repos\Overriding\bin\Debug\net7.0\Overriding.dll
+C:\Users\Owen\source\repos\Overriding\bin\Debug\net7.0\Overriding.pdb
+C:\Users\Owen\source\repos\Overriding\obj\Debug\net7.0\Overriding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owen\source\repos\Overriding\obj\Debug\net7.0\Overriding.AssemblyInfoInputs.cache
+C:\Users\Owen\source\repos\Overriding\obj\Debug\net7.0\Overriding.AssemblyInfo.cs
+C:\Users\Owen\source\repos\Overriding\obj\Debug\net7.0\Overriding.csproj.CoreCompileInputs.cache
+C:\Users\Owen\source\repos\Overriding\obj\Debug\net7.0\Overriding.dll
+C:\Users\Owen\source\repos\Overriding\obj\Debug\net7.0\refint\Overriding.dll
+C:\Users\Owen\source\repos\Overriding\obj\Debug\net7.0\Overriding.pdb
+C:\Users\Owen\source\repos\Overriding\obj\Debug\net7.0\Overriding.genruntimeconfig.cache
+C:\Users\Owen\source\repos\Overriding\obj\Debug\net7.0\ref\Overriding.dll
