@@ -1,0 +1,16 @@
+C:\Users\Owen\source\repos\StringManipulation\obj\Debug\net7.0\StringManipulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owen\source\repos\StringManipulation\obj\Debug\net7.0\StringManipulation.AssemblyInfoInputs.cache
+C:\Users\Owen\source\repos\StringManipulation\obj\Debug\net7.0\StringManipulation.AssemblyInfo.cs
+C:\Users\Owen\source\repos\StringManipulation\obj\Debug\net7.0\StringManipulation.csproj.CoreCompileInputs.cache
+C:\Users\Owen\source\repos\StringManipulation\obj\Debug\net7.0\StringManipulation.sourcelink.json
+C:\Users\Owen\source\repos\StringManipulation\bin\Debug\net7.0\StringManipulation.exe
+C:\Users\Owen\source\repos\StringManipulation\bin\Debug\net7.0\StringManipulation.deps.json
+C:\Users\Owen\source\repos\StringManipulation\bin\Debug\net7.0\StringManipulation.runtimeconfig.json
+C:\Users\Owen\source\repos\StringManipulation\bin\Debug\net7.0\StringManipulation.dll
+C:\Users\Owen\source\repos\StringManipulation\bin\Debug\net7.0\StringManipulation.pdb
+C:\Users\Owen\source\repos\StringManipulation\obj\Debug\net7.0\StringManipulation.dll
+C:\Users\Owen\source\repos\StringManipulation\obj\Debug\net7.0\refint\StringManipulation.dll
+C:\Users\Owen\source\repos\StringManipulation\obj\Debug\net7.0\StringManipulation.pdb
+C:\Users\Owen\source\repos\StringManipulation\obj\Debug\net7.0\StringManipulation.genruntimeconfig.cache
+C:\Users\Owen\source\repos\StringManipulation\obj\Debug\net7.0\ref\StringManipulation.dll
+C:\Users\Owen\source\repos\StringManipulation\bin\Debug\net7.0\Files\Words.txt
