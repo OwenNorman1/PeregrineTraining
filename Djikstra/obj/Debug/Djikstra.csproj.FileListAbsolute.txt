@@ -1,0 +1,7 @@
+C:\Users\Owen\source\repos\Djikstra\bin\Debug\Djikstra.exe.config
+C:\Users\Owen\source\repos\Djikstra\bin\Debug\Djikstra.exe
+C:\Users\Owen\source\repos\Djikstra\bin\Debug\Djikstra.pdb
+C:\Users\Owen\source\repos\Djikstra\obj\Debug\Djikstra.csproj.AssemblyReference.cache
+C:\Users\Owen\source\repos\Djikstra\obj\Debug\Djikstra.csproj.CoreCompileInputs.cache
+C:\Users\Owen\source\repos\Djikstra\obj\Debug\Djikstra.exe
+C:\Users\Owen\source\repos\Djikstra\obj\Debug\Djikstra.pdb

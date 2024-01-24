@@ -1,0 +1,7 @@
+C:\Users\Owen\source\repos\Searching\bin\Debug\Searching.exe.config
+C:\Users\Owen\source\repos\Searching\bin\Debug\Searching.exe
+C:\Users\Owen\source\repos\Searching\bin\Debug\Searching.pdb
+C:\Users\Owen\source\repos\Searching\obj\Debug\Searching.csproj.AssemblyReference.cache
+C:\Users\Owen\source\repos\Searching\obj\Debug\Searching.csproj.CoreCompileInputs.cache
+C:\Users\Owen\source\repos\Searching\obj\Debug\Searching.exe
+C:\Users\Owen\source\repos\Searching\obj\Debug\Searching.pdb
