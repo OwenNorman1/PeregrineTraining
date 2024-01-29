@@ -1,0 +1,34 @@
+﻿body {
+}
+.Header {
+    background-color: #ff7f27;
+    padding: 15px;
+    color: #ffffff;
+    font-size: 30px;
+    height: 75px;
+    width: 1200px;
+}
+.Vertical {
+    background-color: #808080;
+    padding: 15px;
+    height: 400px;
+    width: 20%;
+    float: left;
+}
+.Body {
+    background-color: #7092be;
+    padding: 15px;
+    color: #ffffff;
+    height: 400px;
+    width: 75%;
+    float: right;
+}
+.Footer {
+    background-color: #ff7f27;
+    height: 50px;
+    color: #ffffff;
+    width: 100%;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+}
