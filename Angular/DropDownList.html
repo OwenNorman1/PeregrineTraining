@@ -1,0 +1,20 @@
+﻿<!DOCTYPE html>
+<html ng-app="MyApp">
+<head>
+    <meta charset="utf-8" />
+    <title>First Angular App</title>
+    <script src="Scripts/angular.min.js"></script>
+    <script src="Scripts/scriptDDL.js"></script>
+</head>
+<body>
+    <div ng-controller="MyController">
+        {{5+5}}
+        {{MyVal}}
+        <input type="text" ng-model="MyVal" />
+        <hr />
+        <input type="button" ng-click="MyFunc()" value="submit" />
+        <hr />
+        <input type="button" ng-click="MyFunc2(MyVal)" value="click me" />
+    </div>
+</body>
+</html>
